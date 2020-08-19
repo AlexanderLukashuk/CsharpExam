@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/bin/Debug/netcoreapp3.1/Exam.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/bin/Debug/netcoreapp3.1/Exam.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/bin/Debug/netcoreapp3.1/Exam.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/bin/Debug/netcoreapp3.1/Exam.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/bin/Debug/netcoreapp3.1/Exam.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/obj/Debug/netcoreapp3.1/Exam.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/obj/Debug/netcoreapp3.1/Exam.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/obj/Debug/netcoreapp3.1/Exam.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/obj/Debug/netcoreapp3.1/Exam.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_24(exam)/Exam/obj/Debug/netcoreapp3.1/Exam.pdb
